@@ -13,6 +13,7 @@ import FormButtonsRedux from '../forms/form-buttons-redux';
 import GenericGroupWrapper from '../react/generic_group_wrapper';
 import GraphQLExplorer from "../graphql-explorer";
 import ImportDatastoreViaGit from '../components/automate-import-export-form/import-datastore-via-git';
+import MainMenu from '../components/main_menu';
 import MiqAboutModal from '../components/miq-about-modal';
 import OrcherstrationTemplateForm from '../components/orchestration-template/orcherstration-template-form';
 import RemoveCatalogItemModal from '../components/remove-catalog-item-modal.jsx';
